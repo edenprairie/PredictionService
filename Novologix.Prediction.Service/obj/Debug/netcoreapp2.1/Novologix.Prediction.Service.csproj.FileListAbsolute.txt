@@ -1,0 +1,14 @@
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\bin\Debug\netcoreapp2.1\Novologix.Prediction.Service.deps.json
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\bin\Debug\netcoreapp2.1\Novologix.Prediction.Service.runtimeconfig.json
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\bin\Debug\netcoreapp2.1\Novologix.Prediction.Service.runtimeconfig.dev.json
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\bin\Debug\netcoreapp2.1\Novologix.Prediction.Service.dll
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\obj\Debug\netcoreapp2.1\Novologix.Prediction.Service.csprojAssemblyReference.cache
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\obj\Debug\netcoreapp2.1\Novologix.Prediction.Service.csproj.CoreCompileInputs.cache
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\obj\Debug\netcoreapp2.1\Novologix.Prediction.Service.RazorAssemblyInfo.cache
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\obj\Debug\netcoreapp2.1\Novologix.Prediction.Service.RazorAssemblyInfo.cs
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\obj\Debug\netcoreapp2.1\Novologix.Prediction.Service.AssemblyInfoInputs.cache
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\obj\Debug\netcoreapp2.1\Novologix.Prediction.Service.AssemblyInfo.cs
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\obj\Debug\netcoreapp2.1\Novologix.Prediction.Service.RazorTargetAssemblyInfo.cache
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\bin\Debug\netcoreapp2.1\Novologix.Prediction.Service.pdb
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\obj\Debug\netcoreapp2.1\Novologix.Prediction.Service.dll
+C:\Anuraj\POCs\PredictionService\Novologix.Prediction.Service\obj\Debug\netcoreapp2.1\Novologix.Prediction.Service.pdb
